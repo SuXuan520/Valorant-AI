@@ -1,0 +1,13 @@
+# model files (provided by remote)
+*.pt
+*.engine
+*.onnx
+*.jsonl
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
