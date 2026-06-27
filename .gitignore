@@ -11,3 +11,5 @@ __pycache__/
 
 # IDE
 .idea/
+# auto-generated fitting output
+fitted_params.json
