@@ -7,3 +7,6 @@ __pycache__/
 .idea/
 # auto-generated fitting output
 fitted_params.json
+/aim/configs/
+/aim/dist/
+/java-aim/
